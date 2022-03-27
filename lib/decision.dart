@@ -1,0 +1,1 @@
+enum Decision { yes, no, unknown }

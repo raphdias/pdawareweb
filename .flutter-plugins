@@ -1,0 +1,22 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.9/
+cloud_firestore_web=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.6.9/
+firebase_auth=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.8/
+firebase_auth_web=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.8/
+firebase_core=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.12.0/
+firebase_core_web=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.0/
+firebase_storage=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.2.8/
+firebase_storage_web=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.2.9/
+path_provider=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.9/
+path_provider_android=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.12/
+path_provider_ios=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.8/
+path_provider_linux=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5/
+path_provider_macos=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.5/
+path_provider_windows=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.5/
+url_launcher=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.20/
+url_launcher_android=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.15/
+url_launcher_ios=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_ios-6.0.15/
+url_launcher_linux=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-3.0.0/
+url_launcher_macos=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.0/
+url_launcher_web=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.6/
+url_launcher_windows=/Users/raph/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-3.0.0/
